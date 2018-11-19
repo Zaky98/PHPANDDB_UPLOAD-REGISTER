@@ -43,13 +43,13 @@
         <div class="form-group">
             <label for="inputPassword3" class="col-sm-1 control-label">Password : </label>
             <div class="col-sm-3">
-                <input type="text" class="form-control" id="password" placeholder="Masukan Password"  name="password" required>
+                <input type="password" class="form-control" id="password" placeholder="Masukan Password"  name="password" required>
             </div>
         </div>
         <div class="form-group">
             <label for="inputPassword3" class="col-sm-1 control-label">Password : </label>
             <div class="col-sm-3">
-                <input type="text" class="form-control" id="password2" placeholder="Masukan ulang password"  name="password2" required>
+                <input type="password" class="form-control" id="password2" placeholder="Masukan ulang password"  name="password2" required>
             </div>
         </div>
         <div class="form-group">
